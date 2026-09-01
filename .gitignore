@@ -1,0 +1,11 @@
+SFT/
+
+math_eval/eval/
+math_eval/__pycache__/
+math_eval/logs/
+math_eval/outputs/
+
+logs/*.log
+LLaMA-Factory/llama_factory/
+cotbridge.sh.*
+RL/verl/
